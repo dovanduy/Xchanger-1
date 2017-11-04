@@ -12,18 +12,18 @@
         android:background="?android:attr/selectableItemBackground"
         android:clickable="true"
         android:orientation="vertical"
-        android:paddingLeft="@dimen/ten_dp"
-        android:paddingRight="@dimen/ten_dp">
+        android:paddingLeft="@dimen/tendip"
+        android:paddingRight="@dimen/tendip">
 
         <android.support.v7.widget.CardView
             android:id="@+id/card_holder"
             android:layout_width="match_parent"
             android:layout_height="180dp"
-            android:layout_marginBottom="@dimen/ten_dp"
-            android:layout_marginLeft="@dimen/twenty_dp"
+            android:layout_marginBottom="@dimen/tendip"
+            android:layout_marginLeft="@dimen/twentydip"
             android:foreground="?android:attr/selectableItemBackground"
-            android:layout_marginRight="@dimen/twenty_dp"
-            android:layout_marginTop="@dimen/twenty_dp">
+            android:layout_marginRight="@dimen/twentydip"
+            android:layout_marginTop="@dimen/twentydip">
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -40,8 +40,8 @@
                     android:background="@color/colorPrimary"
                     android:padding="5dp"
                     android:textColor="@android:color/white"
-                    android:textSize="18sp"
-                    tool:text="USD" />
+                    android:textSize="@dimen/text_size_one"
+                    tool:text="@string/currencyname" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -62,8 +62,8 @@
                             android:layout_weight="2"
                             android:padding="5dp"
                             android:textColor="@color/colorPrimary"
-                            android:textSize="18sp"
-                            tool:text="BTC:" />
+                            android:textSize="@dimen/text_size_one"
+                            tool:text="@string/btc" />
 
                         <TextView
                             android:id="@+id/ETH"
@@ -72,8 +72,8 @@
                             android:layout_weight="2"
                             android:padding="5dp"
                             android:textColor="@color/colorPrimary"
-                            android:textSize="18sp"
-                            tool:text="ETH:" />
+                            android:textSize="@dimen/text_size_one"
+                            tool:text="@string/eth" />
                     </LinearLayout>
 
 
