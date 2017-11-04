@@ -1,0 +1,137 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="Xchanger" values="AndroidRunConfigurationType" collectionTime="1509734020435" />
+      <project id="DevPartition" values="AndroidRunConfigurationType" collectionTime="1503849767096" />
+      <project id="Githubfetch" values="AndroidRunConfigurationType" collectionTime="1503029740931" />
+      <project id="Xchange" values="AndroidRunConfigurationType" collectionTime="1507848372961" />
+      <project id="QwikDial" values="AndroidRunConfigurationType" collectionTime="1505314117028" />
+      <project id="DevIt" values="AndroidRunConfigurationType" collectionTime="1509785678104" />
+      <project id="PartitionDev" values="AndroidRunConfigurationType" collectionTime="1503356342607" />
+      <project id="FetchIt" values="AndroidRunConfigurationType" collectionTime="1503944937233" />
+      <project id="JavaDevs" values="AndroidRunConfigurationType" collectionTime="1502992525696" />
+    </group>
+    <group name="module type">
+      <project id="PartitionDev" values="JAVA_MODULE" collectionTime="1503356342607" />
+      <project id="DevPartition" values="JAVA_MODULE" collectionTime="1503849767096" />
+      <project id="Githubfetch" values="JAVA_MODULE" collectionTime="1503029740930" />
+      <project id="Xchange" values="JAVA_MODULE" collectionTime="1507848372959" />
+      <project id="CurrencyExchange" values="JAVA_MODULE" collectionTime="1508099503402" />
+      <project id="FetchIt" values="JAVA_MODULE" collectionTime="1503944937233" />
+      <project id="CurrencyConverter-master" values="JAVA_MODULE" collectionTime="1507851566350" />
+      <project id="Crypto-MoneyXchange" values="JAVA_MODULE" collectionTime="1509195614801" />
+      <project id="DevIt" values="JAVA_MODULE" collectionTime="1509785678104" />
+      <project id="QwikDial" values="JAVA_MODULE" collectionTime="1505314117026" />
+      <project id="JavaDevelopers" values="JAVA_MODULE" collectionTime="1503912523051" />
+      <project id="JavaDevs" values="JAVA_MODULE" collectionTime="1502992525696" />
+      <project id="Currency-Converter-Android-master" values="JAVA_MODULE" collectionTime="1507851002213" />
+      <project id="Xchanger" values="JAVA_MODULE" collectionTime="1509734020372" />
+    </group>
+    <group name="vcs">
+      <project id="Crypto-MoneyXchange" values="Git" collectionTime="1509195614801" />
+      <project id="DevIt" values="Git" collectionTime="1509785678104" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="Crypto-MoneyXchange" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1509195614820" />
+      <project id="DevIt" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1509785678178" />
+    </group>
+    <group name="file-type">
+      <project id="PartitionDev" values="PLAIN_TEXT,Groovy,ProGuard File,XML,Images,Properties,JAVA,UNKNOWN,IDEA_MODULE,ARCHIVE" collectionTime="1503356342650" />
+      <project id="DevPartition" values="UNKNOWN,IDEA_MODULE,Images,ProGuard File,PLAIN_TEXT,JAVA,XML,Groovy,ARCHIVE,Properties" collectionTime="1503849767167" />
+      <project id="Githubfetch" values="IDEA_MODULE" collectionTime="1503029741039" />
+      <project id="Xchange" values="Properties,UNKNOWN,IDEA_MODULE,Groovy,Images,XML,ARCHIVE,PLAIN_TEXT,JAVA,ProGuard File" collectionTime="1507848373756" />
+      <project id="CurrencyExchange" values="Images,IDEA_MODULE,XML,JAVA,ARCHIVE" collectionTime="1508099503527" />
+      <project id="FetchIt" values="ARCHIVE,JAVA,IDEA_MODULE,PLAIN_TEXT,ProGuard File,UNKNOWN,Images,Properties,XML,Groovy" collectionTime="1503944937281" />
+      <project id="CurrencyConverter-master" values="PLAIN_TEXT,UNKNOWN,JAVA,IDEA_MODULE,Images,XML,SQL,Properties,Groovy" collectionTime="1507851566382" />
+      <project id="Crypto-MoneyXchange" values="ARCHIVE,Images,Groovy,Properties,JAVA,ProGuard File,XML,UNKNOWN,PLAIN_TEXT" collectionTime="1509195614819" />
+      <project id="DevIt" values="PLAIN_TEXT,JAVA,Images,Properties,ARCHIVE,XML,Groovy,IDEA_MODULE,ProGuard File,UNKNOWN" collectionTime="1509785678176" />
+      <project id="QwikDial" values="IDEA_MODULE,JAVA,PLAIN_TEXT,ProGuard File,ARCHIVE,Images,UNKNOWN,APK,Properties,XML,Groovy" collectionTime="1505314117133" />
+      <project id="JavaDevelopers" values="ProGuard File,XML,IDEA_MODULE,ARCHIVE,JAVA,PLAIN_TEXT,Groovy,Images,Properties" collectionTime="1503912523140" />
+      <project id="JavaDevs" values="Properties,ARCHIVE,JAVA,IDEA_MODULE,Images,XML,Groovy,UNKNOWN,ProGuard File,PLAIN_TEXT" collectionTime="1502992525821" />
+      <project id="Currency-Converter-Android-master" values="Properties,CLASS,ARCHIVE,Images,XML,UNKNOWN,PLAIN_TEXT,IDEA_MODULE,JAVA,APK,ProGuard File" collectionTime="1507851002275" />
+      <project id="Xchanger" values="ARCHIVE,Groovy,Images,UNKNOWN,PLAIN_TEXT,Properties,XML,ProGuard File,JAVA,IDEA_MODULE" collectionTime="1509734020501" />
+    </group>
+    <group name="images.ide.background">
+      <project id="PartitionDev" values="editor 0,frame 0" collectionTime="1503356342650" />
+      <project id="DevPartition" values="frame 0,editor 0" collectionTime="1503849767168" />
+      <project id="Githubfetch" values="frame 0,editor 0" collectionTime="1503029741051" />
+      <project id="Xchange" values="editor 0,frame 0" collectionTime="1507848373770" />
+      <project id="CurrencyExchange" values="frame 0,editor 0" collectionTime="1508099503527" />
+      <project id="FetchIt" values="editor 0,frame 0" collectionTime="1503944937282" />
+      <project id="CurrencyConverter-master" values="frame 0,editor 0" collectionTime="1507851566382" />
+      <project id="Crypto-MoneyXchange" values="frame 0,editor 0" collectionTime="1509195614820" />
+      <project id="DevIt" values="frame=0,editor=0" collectionTime="1509785678178" />
+      <project id="QwikDial" values="frame 0,editor 0" collectionTime="1505314117147" />
+      <project id="JavaDevelopers" values="frame 0,editor 0" collectionTime="1503912523140" />
+      <project id="JavaDevs" values="frame 0,editor 0" collectionTime="1502992525837" />
+      <project id="Currency-Converter-Android-master" values="editor 0,frame 0" collectionTime="1507851002275" />
+      <project id="Xchanger" values="frame=0,editor=0" collectionTime="1509734020501" />
+    </group>
+    <group name="Git">
+      <project id="PartitionDev" values="config.warn.about.crlf.enabled,config.force.push.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH" collectionTime="1503356342650" />
+      <project id="DevPartition" values="config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled" collectionTime="1503849767169" />
+      <project id="Githubfetch" values="config.push.autoupdate.disabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled" collectionTime="1503029741056" />
+      <project id="Xchange" values="config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled" collectionTime="1507848373816" />
+      <project id="CurrencyExchange" values="config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.save.policy.STASH,config.force.push.enabled" collectionTime="1508099503543" />
+      <project id="FetchIt" values="config.force.push.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1503944937283" />
+      <project id="CurrencyConverter-master" values="config.warn.about.crlf.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1507851566382" />
+      <project id="Crypto-MoneyXchange" values="config.save.policy.STASH,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.1,data.remotes.in.project.1,config.ssh.enabled,data.local.branches.count.1,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1509195614830" />
+      <project id="DevIt" values="config.save.policy.STASH,data.remotes.in.project.2+,config.ssh.enabled,data.local.branches.count.1,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,data.remote.branches.count.1,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.force.push.enabled" collectionTime="1509785678181" />
+      <project id="QwikDial" values="config.save.policy.STASH,config.warn.about.crlf.enabled,config.force.push.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1505314117189" />
+      <project id="JavaDevelopers" values="config.save.policy.STASH,config.ssh.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.warn.about.detached.enabled" collectionTime="1503912523147" />
+      <project id="JavaDevs" values="config.push.autoupdate.disabled,config.ssh.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT" collectionTime="1502992525852" />
+      <project id="Currency-Converter-Android-master" values="config.ssh.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled" collectionTime="1507851002275" />
+      <project id="Xchanger" values="config.save.policy.STASH,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled" collectionTime="1509734020501" />
+    </group>
+    <group name="frameworks">
+      <project id="Xchanger" values="android-gradle,java-gradle,android" collectionTime="1509734020372" />
+      <project id="CurrencyExchange" values="android" collectionTime="1508099503402" />
+      <project id="DevPartition" values="java-gradle,android,android-gradle" collectionTime="1503849767096" />
+      <project id="FetchIt" values="android-gradle,java-gradle,android" collectionTime="1503944937233" />
+      <project id="Currency-Converter-Android-master" values="android" collectionTime="1507851002213" />
+      <project id="Githubfetch" values="android-gradle,android,java-gradle" collectionTime="1503029740929" />
+      <project id="CurrencyConverter-master" values="android" collectionTime="1507851566350" />
+      <project id="Xchange" values="android,java-gradle,android-gradle" collectionTime="1507848372958" />
+      <project id="QwikDial" values="android,android-gradle,java-gradle" collectionTime="1505314117026" />
+      <project id="DevIt" values="android,java-gradle,android-gradle" collectionTime="1509785678104" />
+      <project id="PartitionDev" values="android-gradle,android,java-gradle" collectionTime="1503356342607" />
+      <project id="JavaDevelopers" values="android-gradle,android" collectionTime="1503912523051" />
+      <project id="JavaDevs" values="android,java-gradle,android-gradle" collectionTime="1502992525696" />
+    </group>
+    <group name="language-level">
+      <project id="PartitionDev" values="JDK_1_7" collectionTime="1503356342650" />
+      <project id="DevPartition" values="JDK_1_7" collectionTime="1503849767169" />
+      <project id="Githubfetch" values="JDK_1_7" collectionTime="1503029741054" />
+      <project id="Xchange" values="JDK_1_7" collectionTime="1507848373815" />
+      <project id="CurrencyExchange" values="JDK_1_8" collectionTime="1508099503543" />
+      <project id="FetchIt" values="JDK_1_7" collectionTime="1503944937283" />
+      <project id="CurrencyConverter-master" values="JDK_1_8" collectionTime="1507851566382" />
+      <project id="Crypto-MoneyXchange" values="JDK_1_7" collectionTime="1509195614829" />
+      <project id="DevIt" values="JDK_1_7" collectionTime="1509785678181" />
+      <project id="QwikDial" values="JDK_1_7" collectionTime="1505314117188" />
+      <project id="JavaDevelopers" values="JDK_1_7" collectionTime="1503912523147" />
+      <project id="JavaDevs" values="JDK_1_7" collectionTime="1502992525852" />
+      <project id="Currency-Converter-Android-master" values="JDK_1_8" collectionTime="1507851002275" />
+      <project id="Xchanger" values="JDK_1_7" collectionTime="1509734020501" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="328" />
+      <entry feature="ide.help.ideaInterface.editor" count="7" />
+      <entry feature="ide.settings.Android_SDK" count="6" />
+      <entry feature="ide.settings.Appearance" count="2" />
+      <entry feature="ide.settings.Genymotion" count="1" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.Gradle" count="2" />
+      <entry feature="ide.settings.Language_Injections" count="1" />
+      <entry feature="ide.settings.Plugins" count="2" />
+      <entry feature="ideaapp.started" count="52" />
+      <entry feature="terminal.win" count="2" />
+      <entry feature="tips.of.the.day.next" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="2" />
+    </counts>
+  </component>
+</application>

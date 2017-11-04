@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            app:itemIconTint="#0000"
+            android:title="@string/home1" />
+
+
+        <item
+            android:id="@+id/mtn"
+            android:icon="@drawable/ic_sim"
+            app:itemIconTint="#0000"
+            android:title="@string/mtn" />
+
+        <item
+            android:id="@+id/airtel"
+            android:icon="@drawable/ic_sim"
+            android:title="@string/airtel" />
+
+        <item
+            android:id="@+id/glo"
+            android:icon="@drawable/ic_sim"
+            android:title="@string/glo" />
+
+        <item
+            android:id="@+id/etisalat"
+            android:icon="@drawable/ic_sim"
+            android:title="@string/etisalat" />
+
+        <item
+            android:id="@+id/rate"
+            android:icon="@drawable/ic_star_border_black_24dp"
+            android:title="@string/rate" />
+        <item
+            android:id="@+id/share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="@string/tell" />
+        <item
+            android:id="@+id/contact"
+            android:icon="@drawable/ic_mail_outline"
+            android:title="@string/reach_us" />
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_info_outline"
+            android:title="@string/about" />
+
+
+
+
+    </group>
+
+
+
+</menu>

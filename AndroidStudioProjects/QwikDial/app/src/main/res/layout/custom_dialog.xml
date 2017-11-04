@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/loggo"
+        android:layout_width="205dp"
+        android:layout_height="205dp"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="20dp"
+        android:src="@mipmap/pix"/>
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="@string/customname"
+        android:layout_below="@+id/loggo"
+        android:textSize="35sp"
+        android:paddingBottom="20dp"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:id="@+id/version_no"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="@string/vrsion"
+        android:layout_below="@+id/name"
+        android:textSize="@dimen/text_size1"
+        android:paddingBottom="5dp"
+        android:gravity="center_horizontal"/>
+    <TextView
+        android:id="@+id/year"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="@string/year"
+        android:layout_below="@+id/version_no"
+        android:textSize="@dimen/text_size1"
+        android:gravity="center_horizontal"/>
+    <TextView
+        android:id="@+id/isuka"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="@string/isuka"
+        android:layout_below="@+id/year"
+        android:textSize="@dimen/text_size1"
+        android:gravity="center_horizontal"/>
+
+    <Button
+        android:id="@+id/dialogButtonOK"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ok"
+        android:layout_marginTop="28dp"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/white"
+        android:layout_below="@+id/year"
+        />
+
+</RelativeLayout>

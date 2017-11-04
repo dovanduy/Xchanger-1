@@ -1,0 +1,50 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name">QuickDial</string>
+    <string name="exit">Exit</string>
+    <string name="welcome">ALWAYS ASKING FOR SUBSCRIPTION CODES?\nTHE STRESS IS OVER,GET STARTED NOW</string>
+    <string name="ok">OK</string>
+    <string name="vrsion">Version 1.0.0</string>
+    <string name="about">About us</string>
+    <string name="customname">QuickDial™</string>
+    <string name="isuka">Isuka Technology Inc </string>
+    <string name="year">(c) 2017 TheRichClass Ltd. </string>
+    <string name="reach_us">Contact us</string>
+    <string name="motto">Less stress,easier access.</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="mtn">Mtn</string>
+    <string name="home1">home</string>
+    <string name="etisalat">9mobile</string>
+    <string name="airtel">Airtel</string>
+    <string name="glo">Glo</string>
+    <string name="pin">Enter Pin</string>
+    <string name="submit">Submit</string>
+    <string name="info">PLEASE ENSURE YOU ENTER THE CORRECT RECHARGE PIN ON YOUR VOUCHER.</string>
+    <string name="borrow">Borrow Airtime</string>
+    <string name="data">Data Subscription</string>
+    <string name="databalance">Data Balance</string>
+    <string name="recharge">Airtime Recharge</string>
+    <string name="airtimebalance">Airtime Balance</string>
+    <string name="shownumber">Show My Number</string>
+    <string name="datadaily">Daily</string>
+    <string name="dataweekly">Weekly</string>
+    <string name="datamonthly">Monthly</string>
+    <string name="mtndaily">[100NGN,30MB]</string>
+    <string name="mtnweekly">[500NGN,750MB]</string>
+    <string name="mtnmonthly">[1000NGN,1.5GIG]</string>
+    <string name="glodaily">[100NGN,35MB]</string>
+    <string name="gloweekly">[200NGN,100MB]</string>
+    <string name="glomonthly">[1000NGN,1.6GIG]</string>
+    <string name="airteldaily">[100NGN,30MB]</string>
+    <string name="airtelweekly">[300NGN,350MB]</string>
+    <string name="airtelmonthly">[1000NGN,1.5GIG]</string>
+    <string name="etisalatdaily">]100NGN,40MB]</string>
+    <string name="etisalatweekly">[200NGN,150MB]</string>
+    <string name="etisalatmonthly">[1200NGN,1.5GIG]</string>
+    <string name="tell">Tell A Friend</string>
+    <string name="rate">Rate Us On Playstore</string>
+    <string name="description">ALL YOUR USSD CODES IN ONE APP, TO BEGIN USE THE MENU BUTTON.</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: A COMMENT -->
+</resources>
