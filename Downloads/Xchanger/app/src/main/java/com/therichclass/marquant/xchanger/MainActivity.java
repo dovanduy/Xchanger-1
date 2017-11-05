@@ -34,7 +34,7 @@ import static com.therichclass.marquant.xchanger.R.id.spinner;
 
 public class MainActivity extends AppCompatActivity  implements AdapterView.OnItemSelectedListener{
 
-    //variables are declared and instantiated respectively
+    //variables are declared and assigned
     private RecyclerView recyclerView;
     private RecyclerViewAdapter mAdapter;
     LinearLayoutManager mLayoutManager;
@@ -49,21 +49,21 @@ public class MainActivity extends AppCompatActivity  implements AdapterView.OnIt
         myCurrencies = new ArrayList<>();
         defaultList = new ArrayList<>();
 
-        initMyViews(); //This method is called that sets and initializes the corresponding recycler views.
+        initMyViews(); //setting and initializing respective views
     }
     private void initMySpinner() {
 
         // Spinner element
         Spinner spinner = (Spinner) findViewById(R.id.spinner);
 
-        // Spinner click listener
+        // Spinner click listener to trace when an item is clicked on the spinner
         spinner.setOnItemSelectedListener(this);
 
         // Spinner Drop down elements
         List<String> categories = new ArrayList<String>();
         categories.add("Select Currency");
 
-        categories.add("ETH - Ethereum");
+        categories.add("ETH - Ethereum"); //adding currencies to the spinner
         categories.add("BTC - Bitcoin");
         categories.add("NGN - Nigerian Naira");
         categories.add("USD - United State Dollars");
@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity  implements AdapterView.OnIt
         categories.add("CHF - Swiss Franc");
 
 
-        // Creating adapter for spinner
+        // Creating adapter for spinner to hold values
         ArrayAdapter<String> dataAdapter = new ArrayAdapter<String>(this,
                 android.R.layout.simple_spinner_item, categories);
 
@@ -103,8 +103,8 @@ public class MainActivity extends AppCompatActivity  implements AdapterView.OnIt
 }
 
 
-    //Method that initialize the recycler view, calls required methods and listens for
-    //scrolls.
+    //Method that initialize the recycler view, calls necessary methods and pays attention to scrolls
+ 
     private void initMyViews() {
 
 
@@ -142,8 +142,8 @@ public class MainActivity extends AppCompatActivity  implements AdapterView.OnIt
             Client client = new Client();
             Service service =
                     client.getClient().create(Service.class);
-            Call<CurrencyExchange> call = service.loadCurrencyExchange(); //pass the value in page
-            // count as the query
+            Call<CurrencyExchange> call = service.loadCurrencyExchange(); //passing value
+          
             call.enqueue(new Callback<CurrencyExchange>() {
                 @Override
                 public void onResponse(Call<CurrencyExchange> call, Response<CurrencyExchange>
@@ -152,10 +152,10 @@ public class MainActivity extends AppCompatActivity  implements AdapterView.OnIt
                         CurrencyExchange currencyExchange = response.body();
 
                         List<Currency> items = currencyExchange.getCurrencyList(); //Save the
-                        // response in a list of items
+                        // response in an item list
 
                         myCurrencies.addAll(items);
-                        initMySpinner(); //This method is called that sets and initializes the spinner element.
+                        initMySpinner(); //This method isets and intializes spinner elements
                         Toast.makeText(MainActivity.this, "Currencies updated.",
                                 Toast.LENGTH_LONG).show();
 
@@ -192,7 +192,7 @@ public class MainActivity extends AppCompatActivity  implements AdapterView.OnIt
 
     @Override
     public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-        // On selecting a spinner item
+        // On selecting a spinner item locate position and add to spinner
         String item = parent.getItemAtPosition(position).toString();
         switch (item) {
             case "ETH - Ethereum":
