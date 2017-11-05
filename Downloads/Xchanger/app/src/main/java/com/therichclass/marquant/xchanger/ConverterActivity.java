@@ -34,14 +34,14 @@ public class ConverterActivity extends AppCompatActivity {
         TextView eth_to = (TextView) findViewById(R.id.ethe);
     }
     private void setRates() {
-        //get the extra that was passed along with the intent from the MainActivity
+        //get xtra info passed via intent from mainactivity
         Bundle extras = getIntent().getExtras();
         currency_name = extras.getString("currency_name");
         eth_rate = extras.getString("ETH_rate");
         btc_rate = extras.getString("BTC_rate");
 
 
-        TextView my_currency = (TextView) findViewById(R.id.currency);
+        TextView my_currency = (TextView) findViewById(R.id.currency);//locating textviews
         my_currency.setText(currency_name);
 
 
@@ -53,7 +53,7 @@ public class ConverterActivity extends AppCompatActivity {
         eth_rates.setText(eth_rate);
 
     }
-    private void setFlags() {
+    private void setFlags() { //setting countries flag according to each currency
         ImageView national_flags = (ImageView) findViewById(R.id.flag);
         switch (currency_name) {
             default:
@@ -124,7 +124,7 @@ public class ConverterActivity extends AppCompatActivity {
                 break;
         }
 }
-    public void submit(View view) {
+    public void submit(View view) { //handles calculation and display response in btc and eth
 
         EditText amount = (EditText) findViewById(R.id.amount);
         String my_amount = amount.getText().toString();
